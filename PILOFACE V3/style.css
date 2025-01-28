@@ -1,35 +1,46 @@
 body {
-    margin: 0; /* باش تحيد أي فراغات */
-    padding: 0;
-    height: 100vh; /* الطول ديال الصفحة */
-    width: 100vw; /* العرض ديال الصفحة */
-    background-image: url('gherab.jpg'); /* الرابط ديال الصورة ديالك */
-    background-size: cover; /* باش الصورة تشد الصفحة كاملة */
-    background-position: center; /* باش الصورة تكون متوازنة */
-    background-repeat: no-repeat; /* باش الصورة ما تكررش */
-  }
+  background-color: black;
+  padding: 0;
+  height: 100vh; /* الطول ديال الصفحة */
+  width: 100vw; /* العرض ديال الصفحة */
+  background-image: url('gherab.jpg'); /* الرابط ديال الصورة ديالك */
+  background-size: cover; /* باش الصورة تشد الصفحة كاملة */
+  background-position: center; /* باش الصورة تكون متوازنة */
+  background-repeat: no-repeat; /* باش الصورة ما تكررش */
+}
 h1 {
-    color: red; /* بدل اللون اللي بغيت */
-    text-align: center; /* تخلي العنوان فالوسط (اختياري) */
-    font-family: Arial, sans-serif; /* تغيير نوع الخط (اختياري) */
-    font-size: 60px;
+  color: red; /* بدل اللون اللي بغيت */
+  text-align: center; /* تخلي العنوان فالوسط (اختياري) */
+  font-family: Arial, sans-serif; /* تغيير نوع الخط (اختياري) */
+  font-size: 60px;
 }
 div {
-    margin: 0; /* باش تحيد أي فراغات */
-    padding: 0;
-    height: 100vh; /* الطول ديال الصفحة */
-    width: 100vw; /* العرض ديال الصفحة */
-    background-image: url('gherab.jpg'); /* الرابط ديال الصورة ديالك */
-    background-size: cover; /* باش الصورة تشد الصفحة كاملة */
-    background-position: center; /* باش الصورة تكون متوازنة */
-    background-repeat: no-repeat; /* باش الصورة ما تكررش */
-  }
+  margin: 0; /* باش تحيد أي فراغات */
+  padding: 0;
+  height: 100vh; /* الطول ديال الصفحة */
+  width: 100vw; /* العرض ديال الصفحة */
+  background-image: url('gherab.jpg'); /* الرابط ديال الصورة ديالك */
+  background-size: cover; /* باش الصورة تشد الصفحة كاملة */
+  background-position: center; /* باش الصورة تكون متوازنة */
+  background-repeat: no-repeat; /* باش الصورة ما تكررش */
+}
+header {
+  margin: 0; /* باش تحيد أي فراغات */
+  padding: 0;
+  height: 100vh; /* الطول ديال الصفحة */
+  width: 100vw; /* العرض ديال الصفحة */
+  background-image: url('gherab.jpg'); /* الرابط ديال الصورة ديالك */
+  background-size: cover; /* باش الصورة تشد الصفحة كاملة */
+  background-position: center; /* باش الصورة تكون متوازنة */
+  background-repeat: no-repeat; /* باش الصورة ما تكررش */
+  
+}
 h2 {
-    color: aliceblue;
-    font-size: 60px;
+  color: aliceblue;
+  font-size: 60px;
 }
 a {
-    color: brown;
-    font-size: 40px;
-    text-align: 20px;
+  color: brown;
+  font-size: 40px;
+  text-align: 20px;
 }
